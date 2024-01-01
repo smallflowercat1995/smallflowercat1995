@@ -12,7 +12,7 @@
 <code><img height="20" alt="docker" src="./docker_icon.png"></code>   
 
 
-| <a href="https://github.com/smallflowercat1995/smallflowercat1995"><img align="center" src="https://github-readme-stats-blue-phi.vercel.app/api?username=smallflowercat1995&count_private=true&layout=donut-vertical&show_icons=true&theme=tokyonight&locale=cn&hide_title=false&show_icons=true&include_all_commits=true&hide_border=true" alt="Smallflowercat1995's github stats" /></a> | <a href="https://github.com/smallflowercat1995/smallflowercat1995"><img align="center" src="https://github-readme-stats-blue-phi.vercel.app/api/top-langs/?username=smallflowercat1995&show_icons=true&theme=tokyonight&locale=cn&hide_title=false&layout=donut-vertical&hide_border=true" /></a> |
+| <a href="https://github.com/smallflowercat1995/smallflowercat1995"><img align="center" src="https://github-readme-stats-blue-phi.vercel.app/api?username=smallflowercat1995&count_private=true&layout=donut&show_icons=true&theme=tokyonight&locale=cn&hide_title=false&show_icons=true&include_all_commits=true&hide_border=false" alt="Smallflowercat1995's github stats" /></a> | <a href="https://github.com/smallflowercat1995/smallflowercat1995"><img align="center" src="https://github-readme-stats-blue-phi.vercel.app/api/top-langs/?username=smallflowercat1995&count_private=true&show_icons=true&theme=tokyonight&locale=cn&hide_title=false&layout=donut&hide_border=false" /></a> |
 | ------------- | ------------- |
 
 #### Top Repositories
