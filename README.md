@@ -12,6 +12,9 @@
 <code><img height="20" alt="docker" src="./docker_icon.png"></code>   
 
 
+| <a href="https://github.com/smallflowercat1995/Sing-Box-Ubuntu-Actions-Workflow"><img align="center" src="https://github-readme-stats-blue-phi.vercel.app/api/pin/?username=smallflowercat1995&count_private=true&layout=donut-vertical&show_icons=true&theme=tokyonight&locale=cn&hide_title=false&repo=Sing-Box-Ubuntu-Actions-Workflow" /></a> | <a href="https://github.com/smallflowercat1995/docker-amd64-custom-ubuntu-topfreeproxies"><img align="center" src="https://github-readme-stats-blue-phi.vercel.app/api/pin/?username=smallflowercat1995&count_private=true&layout=donut-vertical&show_icons=true&theme=tokyonight&locale=cn&hide_title=false&repo=docker-amd64-custom-ubuntu-topfreeproxies" /></a> |
+| ------------- | ------------- |
+
 | <a href="https://github.com/smallflowercat1995/smallflowercat1995"><img align="center" src="https://github-readme-stats-blue-phi.vercel.app/api?username=smallflowercat1995&count_private=true&layout=donut&show_icons=true&theme=tokyonight&locale=cn&hide_title=false&show_icons=true&include_all_commits=true&hide_border=false" alt="Smallflowercat1995's github stats" /></a> | <a href="https://github.com/smallflowercat1995/smallflowercat1995"><img align="center" src="https://github-readme-stats-blue-phi.vercel.app/api/top-langs/?username=smallflowercat1995&count_private=true&show_icons=true&theme=tokyonight&locale=cn&hide_title=false&layout=donut&hide_border=false" /></a> |
 | ------------- | ------------- |
 
@@ -23,10 +26,4 @@
 | ------------- | ------------- |
 
 | <a href="https://github.com/smallflowercat1995/docker-arch-test"><img align="center" src="https://github-readme-stats-blue-phi.vercel.app/api/pin/?username=smallflowercat1995&count_private=true&layout=donut-vertical&show_icons=true&theme=tokyonight&locale=cn&hide_title=false&repo=docker-arch-test" /></a> | <a href="https://github.com/smallflowercat1995/mihomo-script-for-system"><img align="center" src="https://github-readme-stats-blue-phi.vercel.app/api/pin/?username=smallflowercat1995&count_private=true&layout=donut-vertical&show_icons=true&theme=tokyonight&locale=cn&hide_title=false&repo=mihomo-script-for-system" /></a> |
-| ------------- | ------------- |
-
-| <a href="https://github.com/smallflowercat1995/V2ray-Ubuntu-Actions-Workflow"><img align="center" src="https://github-readme-stats-blue-phi.vercel.app/api/pin/?username=smallflowercat1995&count_private=true&layout=donut-vertical&show_icons=true&theme=tokyonight&locale=cn&hide_title=false&repo=V2ray-Ubuntu-Actions-Workflow" /></a> | <a href="https://github.com/smallflowercat1995/docker-amd64-custom-ubuntu-topfreeproxies"><img align="center" src="https://github-readme-stats-blue-phi.vercel.app/api/pin/?username=smallflowercat1995&count_private=true&layout=donut-vertical&show_icons=true&theme=tokyonight&locale=cn&hide_title=false&repo=docker-amd64-custom-ubuntu-topfreeproxies" /></a> |
-| ------------- | ------------- |
-
-| <a href="https://github.com/smallflowercat1995/Sing-Box-Ubuntu-Actions-Workflow"><img align="center" src="https://github-readme-stats-blue-phi.vercel.app/api/pin/?username=smallflowercat1995&count_private=true&layout=donut-vertical&show_icons=true&theme=tokyonight&locale=cn&hide_title=false&repo=Sing-Box-Ubuntu-Actions-Workflow" /></a> | <a href="https://github.com/smallflowercat1995/Boss-Direct-Hiring-Batch-Communication-Script"><img align="center" src="https://github-readme-stats-blue-phi.vercel.app/api/pin/?username=smallflowercat1995&count_private=true&layout=donut-vertical&show_icons=true&theme=tokyonight&locale=cn&hide_title=false&repo=Boss-Direct-Hiring-Batch-Communication-Script" /></a> |
 | ------------- | ------------- |
