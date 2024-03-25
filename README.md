@@ -31,3 +31,6 @@
 
 | <a href="https://github.com/smallflowercat1995/Beauty-pictures-crawling"><img align="center" src="https://github-readme-stats-lime-zeta-46.vercel.app/api/pin/?username=smallflowercat1995&count_private=true&layout=donut-vertical&show_icons=true&theme=tokyonight&locale=cn&hide_title=false&repo=Beauty-pictures-crawling" /></a> | <a href="https://github.com/smallflowercat1995/Divination-python-script-for-I-Ching"><img align="center" src="https://github-readme-stats-lime-zeta-46.vercel.app/api/pin/?username=smallflowercat1995&count_private=true&layout=donut-vertical&show_icons=true&theme=tokyonight&locale=cn&hide_title=false&repo=Divination-python-script-for-I-Ching" /></a> |
 | ------------- | ------------- |
+
+| <a href="https://github.com/smallflowercat1995/virtual-qemu-raspberry-script"><img align="center" src="https://github-readme-stats-lime-zeta-46.vercel.app/api/pin/?username=smallflowercat1995&count_private=true&layout=donut-vertical&show_icons=true&theme=tokyonight&locale=cn&hide_title=false&repo=virtual-qemu-raspberry-script" /></a> | |
+| ------------- | ------------- |
