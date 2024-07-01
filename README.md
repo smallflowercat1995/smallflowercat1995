@@ -22,12 +22,13 @@
 
 ## 🔥 使用的语言
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smallflowercat1995&layout=compact&theme=radical)
-[![使用的语言](https://skillicons.dev/icons?i=python,md,powershell,mysql,linux,docker,git,github,gitlab,postman,cloudflare,vscode,bash,anaconda,raspberrypi)](https://skillicons.dev)
+[![使用的语言](https://skillicons.dev/icons?i=python,md,powershell,mysql,linux,docker,git,github,gitlab,postman,cloudflare,vscode,bash,anaconda)](https://skillicons.dev)
 
 ## 🌱 使用的系统
 ![Debian](https://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=black)
 ![Kali](https://img.shields.io/badge/-Kali-367BF0?style=flat-square&logo=kalilinux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=black)
+![RaspberryPI](https://img.shields.io/badge/-RaspberryPI-C51850?style=flat-square&logo=raspberrypi&logoColor=black)
 ![Fedora](https://img.shields.io/badge/-Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=black)
 ![Windows11](https://img.shields.io/badge/-Windows11-2DA9FD?style=flat-square&logo=windows11&logoColor=black)
 ![MacOS](https://img.shields.io/badge/-MacOS-FFDDA2?style=flat-square&logo=macos&logoColor=black)
