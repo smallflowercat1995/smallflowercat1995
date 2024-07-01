@@ -23,6 +23,17 @@
 ## 🔥 使用的语言
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smallflowercat1995&layout=compact&theme=radical)
 
+## 🌱 使用的语言
+![使用的语言](https://skillicons.dev/icons?i=python,md)
+
+## 🐱 使用的技术栈
+[![使用的技术栈](https://skillicons.dev/icons?i=mysql,linux,docker,git,github,gitlab,postman,cloudflare,vscode,bash)](https://skillicons.dev)
+
+## 🪐 使用的系统
+![Debian](https://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
+![Fedora](https://img.shields.io/badge/-Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-GPTs-412991?style=flat-square&logo=openai&logoColor=white")
+
 ## 🏆 GitHub 奖杯
 ![trophy](https://github-profile-trophy.vercel.app/?username=smallflowercat1995&theme=radical)
 
