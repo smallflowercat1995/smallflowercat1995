@@ -29,6 +29,8 @@
 ![Kali](https://img.shields.io/badge/-Kali-367BF0?style=flat-square&logo=kalilinux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=black)
 ![Fedora](https://img.shields.io/badge/-Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=black)
+![Windows11](https://img.shields.io/badge/-Windows11-2DA9FD?style=flat-square&logo=windows11&logoColor=black)
+![MacOS](https://img.shields.io/badge/-MacOS-FFDDA2?style=flat-square&logo=macos&logoColor=black)
 ![OpenAI](https://img.shields.io/badge/-GPTs-412991?style=flat-square&logo=openai&logoColor=black")
 
 ## 🏆 GitHub 奖杯
