@@ -1,6 +1,6 @@
 # 欢迎来到我的 GitHub 主页 👋
 
-
+## 🐱 普通的描述
 我是刘栋19950828，一名能编程和开源的开发者。  
 我从小就和所有人关系不好   
 我很愤怒，我很难过   
@@ -22,20 +22,19 @@
 
 ## 🔥 使用的语言
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smallflowercat1995&layout=compact&theme=radical)
-![使用的语言](https://skillicons.dev/icons?i=python,md)
-
-## 🐱 使用的技术栈
-[![使用的技术栈](https://skillicons.dev/icons?i=mysql,linux,docker,git,github,gitlab,postman,cloudflare,vscode,bash)](https://skillicons.dev)
+[![使用的语言](https://skillicons.dev/icons?i=python,md,powershell,mysql,linux,docker,git,github,gitlab,postman,cloudflare,vscode,bash,anaconda,raspberrypi)](https://skillicons.dev)
 
 ## 🌱 使用的系统
-![Debian](https://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
-![Fedora](https://img.shields.io/badge/-Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white)
-![OpenAI](https://img.shields.io/badge/-GPTs-412991?style=flat-square&logo=openai&logoColor=white")
+![Debian](https://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=black)
+![Kali](https://img.shields.io/badge/-Kali-367BF0?style=flat-square&logo=kalilinux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=black)
+![Fedora](https://img.shields.io/badge/-Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=black)
+![OpenAI](https://img.shields.io/badge/-GPTs-412991?style=flat-square&logo=openai&logoColor=black")
 
 ## 🏆 GitHub 奖杯
 ![trophy](https://github-profile-trophy.vercel.app/?username=smallflowercat1995&theme=radical)
 
-![](https://raw.githubusercontent.com/smallflowercat1995/smallflowercat1995/output/github-contribution-grid-snake-dark.svg)
+![snake](https://raw.githubusercontent.com/smallflowercat1995/smallflowercat1995/output/github-contribution-grid-snake-dark.svg)
 
 ## 🌟 项目展示
 ### 📌 [smallflowercat1995](https://github.com/smallflowercat1995/smallflowercat1995)
