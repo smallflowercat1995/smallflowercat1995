@@ -1,5 +1,6 @@
 # 欢迎来到我的 GitHub 主页 👋
 
+
 我是刘栋19950828，一名能编程和开源的开发者。  
 我从小就和所有人关系不好   
 我很愤怒，我很难过   
@@ -25,6 +26,7 @@
 ## 🏆 GitHub 奖杯
 ![trophy](https://github-profile-trophy.vercel.app/?username=smallflowercat1995&theme=radical)
 
+![](https://raw.githubusercontent.com/smallflowercat1995/smallflowercat1995/output/github-contribution-grid-snake-dark.svg)
 
 ## 🌟 项目展示
 ### 📌 [smallflowercat1995](https://github.com/smallflowercat1995/smallflowercat1995)
